@@ -10,7 +10,7 @@
 # Tugas membuat Package and Modul
 # Tugas yang diberikan memiliki soal sebagai berikut
 # soal UAS PEMOGRAMAN
-
+![img](SS/soal.png.png)
 
 # Penjelasan
 # Daftar_Nilai
@@ -91,18 +91,18 @@
 # lalu cetak print()
 # Maka OUTPUT yg didaptkan adalah
 # HURUF T
-
+![img](SS/t.png.png)
 
 # HURUF C
-
+![img](SS/c.png.png)
 
 # HURUF U
-
+![img](SS/u.png.png)
 
 # HURUF L
-
+![img](SS/l.png.png)
 
 # HURUF H
-
+![img](SS/h.png.png)
 
 Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih!.
